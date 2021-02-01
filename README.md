@@ -1,3 +1,5 @@
-# Mine
 #never give up
-2019/8/14
+
+game:俄罗斯方块，
+
+draw_flag：画国企，画耗子，
